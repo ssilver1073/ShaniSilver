@@ -23,5 +23,5 @@
 
 [<img align="left" alt="shanisilver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Shanisilver
+[linkedin]: https://www.linkedin.com/in/shanisilver/
 
