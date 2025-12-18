@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shani! <br/><a href="https://github.com/Ssilver1073">It Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">Cybersecurity Professional</a>
+<h1>Hi, I'm Shani! <br/><a href="https://github.com/Ssilver1073">IT Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
