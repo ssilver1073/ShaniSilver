@@ -14,7 +14,6 @@
 
 <h2>📄 Certifications</h2>
 - [Google Cyber Security Professional]
-
 - [Qualys Vulnerability Management Detection and Response]
 
 <h2>📺 Popular YouTube Videos</h2>
