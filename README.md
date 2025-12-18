@@ -14,7 +14,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Cyber Security Professional] [Google CyberSecurity.pdf](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf)         
+- [Google Cyber Security Professional](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf)         
 - [Qualys Vulnerability Management Detection and Response]
 
 <h2>📺 Popular YouTube Videos</h2>
