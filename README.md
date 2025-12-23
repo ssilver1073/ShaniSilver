@@ -2,11 +2,6 @@
 
 <a href="https://linkedin.com/in/shanisilver/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-
-<h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
-
 ## Objective
 
 Long-time IT Specialist and Business Applications Analyst with experience in ERP and CRM systems (SAP, ServiceNow, Salesforce), workflow automation, and data-driven reporting. Passionate about Cybersecurity and AI, leveraging technical expertise and problem-solving skills to tackle complex challenges and deliver meaningful impact. Experienced in analyzing, implementing, and optimizing business applications, with a focus on:  
