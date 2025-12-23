@@ -18,10 +18,9 @@ Thank you for visiting. I am a long-time IT Specialist and Business Applications
 | API creation using Python                     | <a href="https://github.com/ShaniSilver/API-Creation/blob/main/README.md">API Build</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory example                      | <a href="https://github.com/ShaniSilver/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Sentinel,Failed RDP to IP Geolocation Information     | <a href="https://github.com/ShaniSilver/Sentinel-Lab">Sentinel Lab</a>|
+| Powershell JWipe - Disk Sanitization | <a href="https://github.com/ShaniSilver/Jwipe.PowerShell">JWipe-DiskSanitization</a>|
 
 ## Tools
 
