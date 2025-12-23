@@ -1,5 +1,3 @@
-README.md
-
 <h1>Hi, I'm Shani! <br/><a href="https://github.com/ShaniSilver">IT Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">AI Enthusiast</a>
 
 <h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
