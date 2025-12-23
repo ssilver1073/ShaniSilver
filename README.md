@@ -10,11 +10,9 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 -  <b>Python</b>
-
-   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certifications</h2>
-
 - [Google Cyber Security Professional](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf)         
 - Qualys Vulnerability Management Detection and Response
 - Comptia Security+ 1/06/2026
