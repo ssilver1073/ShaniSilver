@@ -13,7 +13,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certifications</h2>
-- [Google Cyber Security Professional](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf
+- [Google Cyber Security Professional](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf)
 - [Qualys Vulnerability Management Detection and Response]
 - [Comptia Security+ 1/06/2026]
 
@@ -24,6 +24,8 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="shanisilver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/shanisilver/
 
