@@ -17,6 +17,7 @@
 
 - [Google Cyber Security Professional](https://github.com/user-attachments/files/24245979/Google.CyberSecurity.pdf)         
 - Qualys Vulnerability Management Detection and Response
+- Comptia Security+ 1/06/2025
 
 <h2>📺 Popular YouTube Videos</h2>
 
