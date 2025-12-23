@@ -64,9 +64,10 @@ Thank you for visiting. I am a long-time IT Specialist and Business Applications
 </div>
 
 ## <h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
-- 
+- <a href="https://github.com/ShaniSilver/API-Creation/blob/main/README.md">API Build</a>
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
-- 
+- <a href="https://github.com/ShaniSilver/Active-Directory-Lab/tree/main">Active Directory Lab</a>
+- <a href="https://github.com/ShaniSilver/Jwipe.PowerShell">JWipe-DiskSanitization</a>
 
 <h2>📺 Popular YouTube Videos</h2>
 
