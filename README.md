@@ -66,7 +66,7 @@ Thank you for visiting. I am a long-time IT Specialist and Business Applications
 ## <h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
 - 
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
