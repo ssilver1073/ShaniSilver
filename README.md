@@ -19,7 +19,7 @@ Thank you for visiting. I am a long-time IT Specialist and Business Applications
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Active Directory example                      | <a href="https://github.com/ShaniSilver/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Sentinel,Failed RDP to IP Geolocation Information     | <a href="https://github.com/ShaniSilver/Sentinel-Lab">Sentinel Lab</a>|
+| Sentinel, Failed RDP to IP Geolocation Information     | <a href="https://github.com/ShaniSilver/Sentinel-Lab">Sentinel Lab</a>|
 | Powershell JWipe - Disk Sanitization | <a href="https://github.com/ShaniSilver/Jwipe.PowerShell">JWipe-DiskSanitization</a>|
 
 ## Tools
