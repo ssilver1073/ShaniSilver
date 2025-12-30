@@ -6,8 +6,8 @@
 
 Thank you for visiting. I am a long-time IT Specialist and Business Applications Analyst with experience in ERP and CRM systems (SAP, ServiceNow, Salesforce), workflow automation, and data-driven reporting. Passionate about Cybersecurity and AI, leveraging technical expertise and problem-solving skills to tackle complex challenges and deliver meaningful impact. Experienced in analyzing, implementing, and optimizing business applications, with a focus on:  
 
-- ERP and CRM systems (SAP, SericeNow, Salesforce)  
 - IT and Cyber Security process improvement and workflow automation  
+- ERP and CRM systems (SAP, SericeNow, Salesforce)  
 - Business requirements gathering and gap analysis  
 - Reporting and data visualization 
 
