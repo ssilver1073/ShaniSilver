@@ -60,7 +60,7 @@ Thank you for visiting. I am a long-time IT Specialist and Business Applications
 <div>
     <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Qualys-VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/Security%2B-CompTIA%20|%20Target%20Jan.%2015th,%202026-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security%2B-CompTIA%20|%20Target%20Feb.%2017th,%202026-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## <h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
